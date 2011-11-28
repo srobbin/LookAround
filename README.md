@@ -3,6 +3,8 @@ LookAround
 
 LookAround is a simple experiment that controls a Google Maps Street View with orientation and location information from the host device. To view: open the page from an iOS or Android device, and turn around in circles.
 
+Demo: [http://srobbin.github.com/LookAround/](http://srobbin.github.com/LookAround/)
+
 Frequently Asked Questions
 --------------------
 
