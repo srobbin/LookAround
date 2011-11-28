@@ -19,7 +19,7 @@ I'm sorry, we've just gone stealth. But please sign up for our newsletter and/or
 Yes. Again, I'm sorry. There is no roadmap. This is just an experiment. There will be no future updates.
 
 ### Can I use and/or modify the code?
-Yes. This code is released under a "http://sam.zoy.org/wtfpl/":WTFPL license.
+Yes. This code is released under a [WTFPL license](http://sam.zoy.org/wtfpl/).
 
 ### Do you love me?
 Yes. *smooch*
